@@ -1,5 +1,5 @@
 # Excel
- Planilhas de __*excel*__ feitas durante *aulas*. :vulcan_salute
+ Planilhas de __*excel*__ feitas durante *aulas*. 
 
 nome | idade | sexo
 --- | --- | ---
