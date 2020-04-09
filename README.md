@@ -1,2 +1,2 @@
 # Excel
- Planilhas de __*excel*__ feitas durante *aulas.
+ Planilhas de __*excel*__ feitas durante *aulas*.
