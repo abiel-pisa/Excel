@@ -8,5 +8,5 @@ Maria | 21 | feminino
 Pedro | 16 | masculino
 Carlos | 21 | masculino
 
-* [Siga-me no Instagram](https://www.instagram.com/abi_pisa/)
-* [Siga-me no GitHub](https://github.com/abiel-pisa)
+* [Siga-me no Instagram](https://www.instagram.com/abi_pisa/) :wink:
+* [Siga-me no GitHub](https://github.com/abiel-pisa) :octocat:
